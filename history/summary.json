@@ -76,19 +76,19 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "degraded",
-    "uptime": "7.73%",
-    "uptimeDay": "7.73%",
-    "uptimeWeek": "7.73%",
-    "uptimeMonth": "7.73%",
-    "uptimeYear": "7.73%",
-    "time": 2114,
-    "timeDay": 2114,
-    "timeWeek": 2114,
-    "timeMonth": 2114,
-    "timeYear": 2114,
+    "status": "up",
+    "uptime": "7.71%",
+    "uptimeDay": "7.71%",
+    "uptimeWeek": "7.71%",
+    "uptimeMonth": "7.71%",
+    "uptimeYear": "7.71%",
+    "time": 2104,
+    "timeDay": 2104,
+    "timeWeek": 2104,
+    "timeMonth": 2104,
+    "timeYear": 2104,
     "dailyMinutesDown": {
-      "2023-09-13": 639
+      "2023-09-13": 648
     }
   },
   {
@@ -96,37 +96,39 @@
     "url": "https://wiki.minetest.land/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.land.ico",
     "slug": "wiki-minetest-land-unofficial-mirror",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 799,
     "timeDay": 799,
     "timeWeek": 799,
     "timeMonth": 799,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   },
   {
     "name": "dev.minetest.net",
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "degraded",
-    "uptime": "41.86%",
-    "uptimeDay": "41.86%",
-    "uptimeWeek": "41.86%",
-    "uptimeMonth": "41.86%",
-    "uptimeYear": "41.86%",
-    "time": 1933,
-    "timeDay": 1933,
-    "timeWeek": 1933,
-    "timeMonth": 1933,
-    "timeYear": 1933,
+    "status": "up",
+    "uptime": "41.28%",
+    "uptimeDay": "41.28%",
+    "uptimeWeek": "41.28%",
+    "uptimeMonth": "41.28%",
+    "uptimeYear": "41.28%",
+    "time": 1899,
+    "timeDay": 1899,
+    "timeWeek": 1899,
+    "timeMonth": 1899,
+    "timeYear": 1899,
     "dailyMinutesDown": {
-      "2023-09-13": 404
+      "2023-09-13": 414
     }
   }
 ]
