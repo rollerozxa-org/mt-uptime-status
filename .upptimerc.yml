@@ -1,31 +1,37 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: rollerozxa
+repo: mt-uptime-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: minetest.net
+    url: https://www.minetest.net
+    maxResponseTime: 2000
+  - name: content.minetest.net
+    url: https://content.minetest.net
+    maxResponseTime: 2000
+  - name: forum.minetest.net
+    url: https://forum.minetest.net
+    maxResponseTime: 2000
+  - name: servers.minetest.net
+    url: https://servers.minetest.net
+    maxResponseTime: 2000
+  - name: wiki.minetest.net
+    url: https://wiki.minetest.net/Main_Page
+    maxResponseTime: 2000
+  - name: wiki.minetest.land (unofficial mirror)
+    url: https://wiki.minetest.land/Main_Page
+    maxResponseTime: 2000
+  - name: dev.minetest.net
+    url: https://dev.minetest.net/Main_Page
+    maxResponseTime: 2000
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: mtstatus.voxelmanip.se
+  name: Minetest websites status
+  introTitle: Minetest websites status
+  introMessage: This status page tracks the uptime and status for Minetest websites.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
