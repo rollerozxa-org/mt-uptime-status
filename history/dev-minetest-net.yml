@@ -1,7 +1,7 @@
 url: https://dev.minetest.net/Main_Page
-status: up
+status: degraded
 code: 200
-responseTime: 1247
-lastUpdated: 2023-09-17T04:59:00.856Z
+responseTime: 3119
+lastUpdated: 2023-09-17T05:27:30.787Z
 startTime: 2023-09-13T11:03:24.895Z
 generator: Upptime <https://github.com/upptime/upptime>
