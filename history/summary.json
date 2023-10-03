@@ -98,7 +98,7 @@
     "timeMonth": 3403,
     "timeYear": 3403,
     "dailyMinutesDown": {
-      "2023-10-03": 1339,
+      "2023-10-03": 1349,
       "2023-10-02": 1389,
       "2023-10-01": 1399,
       "2023-09-30": 1338,
@@ -143,24 +143,23 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
-    "uptime": "87.71%",
-    "uptimeDay": "36.06%",
-    "uptimeWeek": "63.97%",
-    "uptimeMonth": "87.71%",
-    "uptimeYear": "87.71%",
-    "time": 1963,
-    "timeDay": 1901,
-    "timeWeek": 1906,
-    "timeMonth": 1963,
-    "timeYear": 1963,
+    "status": "degraded",
+    "uptime": "87.78%",
+    "uptimeDay": "36.72%",
+    "uptimeWeek": "64.17%",
+    "uptimeMonth": "87.78%",
+    "uptimeYear": "87.78%",
+    "time": 1964,
+    "timeDay": 1910,
+    "timeWeek": 1908,
+    "timeMonth": 1964,
+    "timeYear": 1964,
     "dailyMinutesDown": {
       "2023-10-03": 902,
       "2023-10-02": 850,
       "2023-10-01": 629,
       "2023-09-30": 593,
-      "2023-09-29": 641,
-      "2023-09-28": 19
+      "2023-09-29": 641
     }
   }
 ]
