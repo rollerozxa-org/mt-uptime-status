@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 96,
-    "timeWeek": 88,
+    "timeDay": 154,
+    "timeWeek": 87,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1266,
-    "timeDay": 1556,
-    "timeWeek": 1280,
+    "timeDay": 1747,
+    "timeWeek": 1322,
     "timeMonth": 1266,
     "timeYear": 1266,
     "dailyMinutesDown": {
@@ -49,8 +49,8 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.57%",
     "time": 2033,
-    "timeDay": 608,
-    "timeWeek": 2141,
+    "timeDay": 614,
+    "timeWeek": 2257,
     "timeMonth": 2033,
     "timeYear": 2033,
     "dailyMinutesDown": {
@@ -76,8 +76,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 471,
-    "timeWeek": 374,
+    "timeDay": 459,
+    "timeWeek": 383,
     "timeMonth": 464,
     "timeYear": 464,
     "dailyMinutesDown": {}
@@ -94,12 +94,12 @@
     "uptimeMonth": "30.05%",
     "uptimeYear": "30.05%",
     "time": 3340,
-    "timeDay": 2192,
-    "timeWeek": 4376,
+    "timeDay": 2214,
+    "timeWeek": 4400,
     "timeMonth": 3340,
     "timeYear": 3340,
     "dailyMinutesDown": {
-      "2023-10-06": 1365,
+      "2023-10-06": 1367,
       "2023-10-05": 1306,
       "2023-10-04": 1355,
       "2023-10-03": 1358,
@@ -131,8 +131,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 731,
-    "timeDay": 970,
-    "timeWeek": 748,
+    "timeDay": 1442,
+    "timeWeek": 754,
     "timeMonth": 731,
     "timeYear": 731,
     "dailyMinutesDown": {
@@ -144,15 +144,15 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
-    "uptime": "86.25%",
-    "uptimeDay": "24.71%",
-    "uptimeWeek": "53.82%",
-    "uptimeMonth": "86.25%",
-    "uptimeYear": "86.25%",
+    "status": "degraded",
+    "uptime": "86.49%",
+    "uptimeDay": "24.76%",
+    "uptimeWeek": "54.64%",
+    "uptimeMonth": "86.49%",
+    "uptimeYear": "86.49%",
     "time": 1959,
-    "timeDay": 1895,
-    "timeWeek": 1923,
+    "timeDay": 1888,
+    "timeWeek": 1925,
     "timeMonth": 1959,
     "timeYear": 1959,
     "dailyMinutesDown": {
@@ -160,7 +160,7 @@
       "2023-10-05": 990,
       "2023-10-04": 951,
       "2023-10-03": 912,
-      "2023-10-02": 727
+      "2023-10-02": 644
     }
   }
 ]
