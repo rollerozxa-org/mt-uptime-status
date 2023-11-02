@@ -1,7 +1,7 @@
 url: https://wiki.minetest.net/Main_Page
-status: down
-code: 502
-responseTime: 274
-lastUpdated: 2023-11-02T13:31:43.674Z
+status: degraded
+code: 200
+responseTime: 18154
+lastUpdated: 2023-11-02T13:41:26.313Z
 startTime: 2023-09-13T11:03:21.339Z
 generator: Upptime <https://github.com/upptime/upptime>
