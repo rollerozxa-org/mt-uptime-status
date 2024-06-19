@@ -208,7 +208,7 @@
     "timeMonth": 0,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-06-19": 1246,
+      "2024-06-19": 1288,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
@@ -340,9 +340,9 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "97.26%",
+    "uptimeDay": "97.24%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "98.44%",
@@ -371,7 +371,7 @@
       "2023-11-03": 1015,
       "2023-11-02": 808,
       "2023-11-01": 726,
-      "2023-10-31": 174
+      "2023-10-31": 164
     }
   }
 ]
