@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 89,
-    "timeWeek": 141,
+    "timeDay": 125,
+    "timeWeek": 142,
     "timeMonth": 137,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 1245,
-    "timeDay": 1069,
-    "timeWeek": 1105,
+    "timeDay": 1304,
+    "timeWeek": 1131,
     "timeMonth": 1054,
     "timeYear": 1245,
     "dailyMinutesDown": {
@@ -69,8 +69,8 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.13%",
     "time": 2384,
-    "timeDay": 958,
-    "timeWeek": 795,
+    "timeDay": 847,
+    "timeWeek": 789,
     "timeMonth": 1643,
     "timeYear": 2384,
     "dailyMinutesDown": {
@@ -131,8 +131,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 457,
-    "timeDay": 562,
-    "timeWeek": 489,
+    "timeDay": 684,
+    "timeWeek": 509,
     "timeMonth": 469,
     "timeYear": 457,
     "dailyMinutesDown": {
@@ -147,13 +147,13 @@
     "slug": "wiki-minetest-net",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "92.27%",
+    "uptimeDay": "93.80%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.61%",
     "time": 3492,
-    "timeDay": 6978,
-    "timeWeek": 5108,
+    "timeDay": 5282,
+    "timeWeek": 5277,
     "timeMonth": 4580,
     "timeYear": 3492,
     "dailyMinutesDown": {
@@ -209,7 +209,7 @@
     "timeMonth": 0,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-06-25": 1394,
+      "2024-06-25": 1427,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -347,15 +347,15 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.47%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "98.95%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.47%",
     "time": 1988,
-    "timeDay": 4545,
-    "timeWeek": 2723,
+    "timeDay": 6500,
+    "timeWeek": 2847,
     "timeMonth": 1992,
     "timeYear": 1988,
     "dailyMinutesDown": {
@@ -380,7 +380,7 @@
       "2023-11-03": 1015,
       "2023-11-02": 808,
       "2023-11-01": 726,
-      "2023-10-31": 118
+      "2023-10-31": 88
     }
   }
 ]
