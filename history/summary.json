@@ -13,7 +13,7 @@
     "time": 133,
     "timeDay": 168,
     "timeWeek": 151,
-    "timeMonth": 145,
+    "timeMonth": 141,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2024-06-19": 19
@@ -33,7 +33,7 @@
     "time": 1232,
     "timeDay": 1266,
     "timeWeek": 1036,
-    "timeMonth": 1048,
+    "timeMonth": 1066,
     "timeYear": 1232,
     "dailyMinutesDown": {
       "2024-07-15": 8,
@@ -72,7 +72,7 @@
     "time": 2325,
     "timeDay": 2583,
     "timeWeek": 2276,
-    "timeMonth": 1938,
+    "timeMonth": 1919,
     "timeYear": 2325,
     "dailyMinutesDown": {
       "2024-07-30": 9,
@@ -143,7 +143,7 @@
     "time": 457,
     "timeDay": 629,
     "timeWeek": 538,
-    "timeMonth": 467,
+    "timeMonth": 464,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2024-06-19": 17,
@@ -164,7 +164,7 @@
     "time": 3606,
     "timeDay": 3320,
     "timeWeek": 5532,
-    "timeMonth": 4361,
+    "timeMonth": 4440,
     "timeYear": 3606,
     "dailyMinutesDown": {
       "2024-07-30": 32,
@@ -198,18 +198,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.land.ico",
     "slug": "wiki-minetest-land-unofficial-mirror",
     "status": "down",
-    "uptime": "49.92%",
+    "uptime": "49.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "49.92%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "49.91%",
     "time": 1023,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-07-30": 1431,
+      "2024-07-31": 69,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -391,7 +392,7 @@
     "time": 1997,
     "timeDay": 3967,
     "timeWeek": 3443,
-    "timeMonth": 2340,
+    "timeMonth": 2315,
     "timeYear": 1997,
     "dailyMinutesDown": {
       "2024-07-30": 66,
