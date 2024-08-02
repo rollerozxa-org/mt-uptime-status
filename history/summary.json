@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 104,
-    "timeWeek": 152,
+    "timeDay": 74,
+    "timeWeek": 150,
     "timeMonth": 144,
     "timeYear": 133,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.91%",
     "time": 1229,
-    "timeDay": 1057,
-    "timeWeek": 993,
+    "timeDay": 1026,
+    "timeWeek": 995,
     "timeMonth": 1033,
     "timeYear": 1229,
     "dailyMinutesDown": {
@@ -70,8 +70,8 @@
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.25%",
     "time": 2381,
-    "timeDay": 3517,
-    "timeWeek": 3461,
+    "timeDay": 3808,
+    "timeWeek": 3570,
     "timeMonth": 2556,
     "timeYear": 2381,
     "dailyMinutesDown": {
@@ -142,8 +142,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 457,
-    "timeDay": 375,
-    "timeWeek": 505,
+    "timeDay": 354,
+    "timeWeek": 476,
     "timeMonth": 460,
     "timeYear": 457,
     "dailyMinutesDown": {
@@ -156,16 +156,16 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.54%",
-    "uptimeDay": "84.25%",
+    "uptimeDay": "84.23%",
     "uptimeWeek": "95.31%",
-    "uptimeMonth": "95.05%",
+    "uptimeMonth": "95.06%",
     "uptimeYear": "99.54%",
     "time": 3630,
-    "timeDay": 5278,
-    "timeWeek": 4924,
-    "timeMonth": 4469,
+    "timeDay": 5387,
+    "timeWeek": 4971,
+    "timeMonth": 4468,
     "timeYear": 3630,
     "dailyMinutesDown": {
       "2024-08-02": 227,
@@ -189,7 +189,7 @@
       "2024-07-10": 85,
       "2024-07-07": 86,
       "2024-07-06": 419,
-      "2024-07-05": 52
+      "2024-07-05": 44
     }
   },
   {
@@ -209,7 +209,7 @@
     "timeMonth": 0,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-08-02": 1394,
+      "2024-08-02": 1429,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -392,8 +392,8 @@
     "uptimeMonth": "98.93%",
     "uptimeYear": "98.69%",
     "time": 2000,
-    "timeDay": 483,
-    "timeWeek": 3643,
+    "timeDay": 471,
+    "timeWeek": 3732,
     "timeMonth": 2435,
     "timeYear": 2000,
     "dailyMinutesDown": {
