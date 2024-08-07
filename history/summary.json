@@ -142,11 +142,11 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "77.10%",
-    "uptimeWeek": "79.30%",
-    "uptimeMonth": "94.87%",
+    "uptimeDay": "77.01%",
+    "uptimeWeek": "79.29%",
+    "uptimeMonth": "94.94%",
     "uptimeYear": "99.53%",
     "time": 3780,
     "timeDay": 6023,
@@ -154,7 +154,7 @@
     "timeMonth": 5148,
     "timeYear": 3780,
     "dailyMinutesDown": {
-      "2024-08-07": 250,
+      "2024-08-07": 251,
       "2024-08-06": 328,
       "2024-08-05": 364,
       "2024-08-04": 233,
@@ -163,7 +163,7 @@
       "2024-08-01": 86,
       "2024-07-30": 32,
       "2024-07-28": 44,
-      "2024-07-27": 84
+      "2024-07-27": 55
     }
   },
   {
@@ -172,18 +172,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.land.ico",
     "slug": "wiki-minetest-land-unofficial-mirror",
     "status": "down",
-    "uptime": "48.74%",
+    "uptime": "48.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.74%",
+    "uptimeYear": "48.73%",
     "time": 1023,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-08-07": 1158,
+      "2024-08-07": 1189,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -364,17 +364,17 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "63.68%",
+    "status": "degraded",
+    "uptime": "99.56%",
+    "uptimeDay": "65.58%",
     "uptimeWeek": "87.95%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "99.55%",
-    "time": 2155,
-    "timeDay": 5943,
-    "timeWeek": 5908,
-    "timeMonth": 4511,
-    "timeYear": 2155,
+    "uptimeMonth": "96.15%",
+    "uptimeYear": "99.56%",
+    "time": 2163,
+    "timeDay": 6328,
+    "timeWeek": 6072,
+    "timeMonth": 4614,
+    "timeYear": 2163,
     "dailyMinutesDown": {
       "2024-08-07": 398,
       "2024-08-06": 437,
@@ -401,7 +401,7 @@
       "2024-05-15": 47,
       "2024-05-13": 80,
       "2024-04-15": 10,
-      "2024-04-06": 26
+      "2024-04-06": 17
     }
   }
 ]
