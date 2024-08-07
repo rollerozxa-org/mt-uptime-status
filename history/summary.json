@@ -142,19 +142,19 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "82.59%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "83.62%",
     "uptimeWeek": "81.13%",
-    "uptimeMonth": "95.06%",
-    "uptimeYear": "99.54%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "99.55%",
     "time": 3770,
-    "timeDay": 6228,
+    "timeDay": 6419,
     "timeWeek": 5668,
     "timeMonth": 5109,
     "timeYear": 3770,
     "dailyMinutesDown": {
-      "2024-08-07": 65,
+      "2024-08-07": 66,
       "2024-08-06": 328,
       "2024-08-05": 364,
       "2024-08-04": 233,
@@ -165,7 +165,7 @@
       "2024-07-28": 44,
       "2024-07-27": 84,
       "2024-07-26": 36,
-      "2024-07-25": 67
+      "2024-07-25": 40
     }
   },
   {
@@ -185,7 +185,7 @@
     "timeMonth": 0,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-08-07": 519,
+      "2024-08-07": 601,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -366,17 +366,17 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "71.91%",
+    "status": "degraded",
+    "uptime": "98.83%",
+    "uptimeDay": "72.91%",
     "uptimeWeek": "90.34%",
     "uptimeMonth": "96.78%",
-    "uptimeYear": "98.82%",
-    "time": 2117,
-    "timeDay": 4929,
-    "timeWeek": 5393,
-    "timeMonth": 4167,
-    "timeYear": 2117,
+    "uptimeYear": "98.83%",
+    "time": 2119,
+    "timeDay": 4827,
+    "timeWeek": 5421,
+    "timeMonth": 4191,
+    "timeYear": 2119,
     "dailyMinutesDown": {
       "2024-08-07": 126,
       "2024-08-06": 437,
@@ -412,7 +412,7 @@
       "2023-11-06": 303,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
-      "2023-11-03": 427
+      "2023-11-03": 398
     }
   }
 ]
