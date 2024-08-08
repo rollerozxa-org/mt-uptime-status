@@ -6,9 +6,9 @@
     "slug": "minetest-net",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "3.02%",
-    "uptimeWeek": "75.60%",
-    "uptimeMonth": "94.39%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "75.43%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.48%",
     "time": 133,
     "timeDay": 147,
@@ -16,7 +16,7 @@
     "timeMonth": 144,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-08-08": 967,
+      "2024-08-08": 985,
       "2024-08-07": 884,
       "2024-08-06": 604
     }
@@ -28,9 +28,9 @@
     "slug": "content-minetest-net",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "3.01%",
-    "uptimeWeek": "75.60%",
-    "uptimeMonth": "94.38%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "75.43%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.48%",
     "time": 1229,
     "timeDay": 1321,
@@ -38,7 +38,7 @@
     "timeMonth": 1066,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2024-08-08": 967,
+      "2024-08-08": 985,
       "2024-08-07": 884,
       "2024-08-06": 604
     }
@@ -48,19 +48,19 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "3.01%",
-    "uptimeWeek": "75.60%",
-    "uptimeMonth": "94.38%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "75.43%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.48%",
-    "time": 2645,
-    "timeDay": 6450,
-    "timeWeek": 4623,
-    "timeMonth": 3730,
-    "timeYear": 2645,
+    "time": 2642,
+    "timeDay": 6205,
+    "timeWeek": 4584,
+    "timeMonth": 3711,
+    "timeYear": 2642,
     "dailyMinutesDown": {
-      "2024-08-08": 967,
+      "2024-08-08": 985,
       "2024-08-07": 884,
       "2024-08-06": 604
     }
@@ -72,9 +72,9 @@
     "slug": "servers-minetest-net",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "3.00%",
-    "uptimeWeek": "75.60%",
-    "uptimeMonth": "94.38%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "75.43%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.48%",
     "time": 459,
     "timeDay": 889,
@@ -82,7 +82,7 @@
     "timeMonth": 487,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2024-08-08": 967,
+      "2024-08-08": 985,
       "2024-08-07": 884,
       "2024-08-06": 604
     }
@@ -94,9 +94,9 @@
     "slug": "wiki-minetest-net",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "2.99%",
-    "uptimeWeek": "75.60%",
-    "uptimeMonth": "94.38%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "75.43%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.48%",
     "time": 3795,
     "timeDay": 4653,
@@ -104,7 +104,7 @@
     "timeMonth": 5150,
     "timeYear": 3795,
     "dailyMinutesDown": {
-      "2024-08-08": 968,
+      "2024-08-08": 985,
       "2024-08-07": 884,
       "2024-08-06": 604
     }
@@ -116,9 +116,9 @@
     "slug": "wiki-minetest-land-unofficial-mirror",
     "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "2.98%",
-    "uptimeWeek": "75.59%",
-    "uptimeMonth": "94.38%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "75.43%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.48%",
     "time": 1023,
     "timeDay": 0,
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-08-08": 968,
+      "2024-08-08": 985,
       "2024-08-07": 884,
       "2024-08-06": 604
     }
@@ -136,19 +136,19 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "2.98%",
-    "uptimeWeek": "75.59%",
-    "uptimeMonth": "94.38%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "75.43%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.48%",
     "time": 2225,
-    "timeDay": 7729,
-    "timeWeek": 6499,
-    "timeMonth": 5060,
+    "timeDay": 7539,
+    "timeWeek": 6454,
+    "timeMonth": 5038,
     "timeYear": 2225,
     "dailyMinutesDown": {
-      "2024-08-08": 968,
+      "2024-08-08": 985,
       "2024-08-07": 884,
       "2024-08-06": 604
     }
