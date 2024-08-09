@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.34%",
-    "uptimeMonth": "92.48%",
+    "uptimeWeek": "67.53%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.31%",
     "time": 133,
     "timeDay": 126,
@@ -16,9 +16,9 @@
     "timeMonth": 144,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-08-09": 983,
+      "2024-08-09": 992,
       "2024-08-08": 1745,
-      "2024-08-07": 562
+      "2024-08-07": 533
     }
   },
   {
@@ -29,8 +29,8 @@
     "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.34%",
-    "uptimeMonth": "92.48%",
+    "uptimeWeek": "67.53%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.31%",
     "time": 1229,
     "timeDay": 1126,
@@ -38,9 +38,9 @@
     "timeMonth": 1076,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2024-08-09": 983,
+      "2024-08-09": 992,
       "2024-08-08": 1745,
-      "2024-08-07": 562
+      "2024-08-07": 533
     }
   },
   {
@@ -48,21 +48,21 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.34%",
-    "uptimeMonth": "92.48%",
+    "uptimeWeek": "67.53%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.31%",
-    "time": 2784,
-    "timeDay": 5599,
-    "timeWeek": 4846,
-    "timeMonth": 4108,
-    "timeYear": 2784,
+    "time": 2782,
+    "timeDay": 5601,
+    "timeWeek": 4814,
+    "timeMonth": 4090,
+    "timeYear": 2782,
     "dailyMinutesDown": {
-      "2024-08-09": 983,
+      "2024-08-09": 992,
       "2024-08-08": 1745,
-      "2024-08-07": 562
+      "2024-08-07": 533
     }
   },
   {
@@ -73,8 +73,8 @@
     "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.34%",
-    "uptimeMonth": "92.48%",
+    "uptimeWeek": "67.53%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.31%",
     "time": 458,
     "timeDay": 303,
@@ -82,9 +82,9 @@
     "timeMonth": 486,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2024-08-09": 983,
+      "2024-08-09": 992,
       "2024-08-08": 1745,
-      "2024-08-07": 562
+      "2024-08-07": 533
     }
   },
   {
@@ -95,18 +95,18 @@
     "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.34%",
-    "uptimeMonth": "92.48%",
+    "uptimeWeek": "67.53%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.31%",
     "time": 3781,
     "timeDay": 2554,
-    "timeWeek": 5378,
+    "timeWeek": 5402,
     "timeMonth": 4998,
     "timeYear": 3781,
     "dailyMinutesDown": {
-      "2024-08-09": 983,
+      "2024-08-09": 992,
       "2024-08-08": 1745,
-      "2024-08-07": 562
+      "2024-08-07": 533
     }
   },
   {
@@ -117,8 +117,8 @@
     "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.33%",
-    "uptimeMonth": "92.48%",
+    "uptimeWeek": "67.53%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.31%",
     "time": 1023,
     "timeDay": 0,
@@ -126,9 +126,9 @@
     "timeMonth": 0,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-08-09": 984,
+      "2024-08-09": 992,
       "2024-08-08": 1745,
-      "2024-08-07": 562
+      "2024-08-07": 533
     }
   },
   {
@@ -136,21 +136,21 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.33%",
-    "uptimeMonth": "92.48%",
+    "uptimeWeek": "67.53%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.31%",
-    "time": 2253,
-    "timeDay": 5488,
-    "timeWeek": 6381,
-    "timeMonth": 5118,
-    "timeYear": 2253,
+    "time": 2255,
+    "timeDay": 5625,
+    "timeWeek": 6399,
+    "timeMonth": 5135,
+    "timeYear": 2255,
     "dailyMinutesDown": {
-      "2024-08-09": 984,
+      "2024-08-09": 992,
       "2024-08-08": 1745,
-      "2024-08-07": 562
+      "2024-08-07": 533
     }
   }
 ]
