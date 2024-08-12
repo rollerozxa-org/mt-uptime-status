@@ -121,7 +121,7 @@
     "slug": "wiki-minetest-net",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "63.23%",
+    "uptimeDay": "66.78%",
     "uptimeWeek": "75.89%",
     "uptimeMonth": "94.45%",
     "uptimeYear": "99.49%",
@@ -157,7 +157,7 @@
     "timeMonth": 0,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-08-12": 35,
+      "2024-08-12": 86,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
