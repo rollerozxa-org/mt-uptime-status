@@ -13,7 +13,7 @@
     "time": 134,
     "timeDay": 197,
     "timeWeek": 197,
-    "timeMonth": 156,
+    "timeMonth": 157,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2024-06-19": 19
@@ -33,7 +33,7 @@
     "time": 1227,
     "timeDay": 1243,
     "timeWeek": 1179,
-    "timeMonth": 1085,
+    "timeMonth": 1091,
     "timeYear": 1227,
     "dailyMinutesDown": {
       "2024-07-15": 8,
@@ -63,19 +63,19 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "84.24%",
-    "uptimeWeek": "87.88%",
-    "uptimeMonth": "95.55%",
-    "uptimeYear": "99.60%",
-    "time": 3110,
-    "timeDay": 4804,
-    "timeWeek": 4392,
-    "timeMonth": 4408,
-    "timeYear": 3110,
+    "status": "degraded",
+    "uptime": "99.62%",
+    "uptimeDay": "84.72%",
+    "uptimeWeek": "87.95%",
+    "uptimeMonth": "95.74%",
+    "uptimeYear": "99.62%",
+    "time": 3113,
+    "timeDay": 4675,
+    "timeWeek": 4345,
+    "timeMonth": 4425,
+    "timeYear": 3113,
     "dailyMinutesDown": {
-      "2024-08-16": 216,
+      "2024-08-16": 218,
       "2024-08-15": 170,
       "2024-08-14": 216,
       "2024-08-13": 200,
@@ -83,7 +83,7 @@
       "2024-08-11": 111,
       "2024-08-10": 233,
       "2024-08-09": 425,
-      "2024-08-08": 313
+      "2024-08-08": 228
     }
   },
   {
@@ -112,16 +112,16 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "79.64%",
-    "uptimeWeek": "77.19%",
-    "uptimeMonth": "94.75%",
+    "uptimeDay": "79.62%",
+    "uptimeWeek": "77.46%",
+    "uptimeMonth": "94.81%",
     "uptimeYear": "99.53%",
     "time": 3896,
     "timeDay": 4014,
     "timeWeek": 4994,
-    "timeMonth": 5063,
+    "timeMonth": 5073,
     "timeYear": 3896,
     "dailyMinutesDown": {
       "2024-08-16": 294,
@@ -130,7 +130,7 @@
       "2024-08-13": 380,
       "2024-08-12": 284,
       "2024-08-11": 530,
-      "2024-08-10": 319
+      "2024-08-10": 291
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-08-16": 1396,
+      "2024-08-16": 1411,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
@@ -349,7 +349,7 @@
     "time": 2295,
     "timeDay": 3951,
     "timeWeek": 3274,
-    "timeMonth": 5014,
+    "timeMonth": 5031,
     "timeYear": 2295,
     "dailyMinutesDown": {
       "2024-08-16": 32,
