@@ -17,9 +17,6 @@ sites:
   - name: wiki.minetest.net
     url: https://wiki.minetest.net/Main_Page
     maxResponseTime: 2000
-  - name: wiki.minetest.land (unofficial mirror)
-    url: https://wiki.minetest.land/Main_Page
-    maxResponseTime: 2000
   - name: dev.minetest.net
     url: https://dev.minetest.net/Main_Page
     maxResponseTime: 2000
