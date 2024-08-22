@@ -63,19 +63,19 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "93.79%",
-    "uptimeWeek": "90.02%",
-    "uptimeMonth": "95.91%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "90.01%",
+    "uptimeMonth": "95.93%",
     "uptimeYear": "99.64%",
     "time": 3202,
-    "timeDay": 4675,
-    "timeWeek": 4375,
-    "timeMonth": 4475,
+    "timeDay": 4537,
+    "timeWeek": 4365,
+    "timeMonth": 4472,
     "timeYear": 3202,
     "dailyMinutesDown": {
-      "2024-08-22": 19,
+      "2024-08-22": 20,
       "2024-08-21": 70,
       "2024-08-20": 128,
       "2024-08-19": 201,
@@ -87,7 +87,7 @@
       "2024-08-13": 200,
       "2024-08-12": 66,
       "2024-08-11": 111,
-      "2024-08-10": 170
+      "2024-08-10": 161
     }
   },
   {
@@ -116,17 +116,17 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "85.87%",
+    "status": "degraded",
+    "uptime": "99.63%",
+    "uptimeDay": "86.53%",
     "uptimeWeek": "82.39%",
-    "uptimeMonth": "95.75%",
-    "uptimeYear": "99.62%",
-    "time": 3981,
-    "timeDay": 5976,
-    "timeWeek": 5194,
-    "timeMonth": 5225,
-    "timeYear": 3981,
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "99.63%",
+    "time": 3982,
+    "timeDay": 5933,
+    "timeWeek": 5200,
+    "timeMonth": 5227,
+    "timeYear": 3982,
     "dailyMinutesDown": {
       "2024-08-22": 19,
       "2024-08-21": 210,
@@ -135,7 +135,7 @@
       "2024-08-18": 221,
       "2024-08-17": 195,
       "2024-08-16": 304,
-      "2024-08-15": 293
+      "2024-08-15": 250
     }
   },
   {
@@ -143,17 +143,17 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.34%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "97.71%",
-    "uptimeMonth": "92.51%",
+    "uptimeMonth": "92.55%",
     "uptimeYear": "99.34%",
-    "time": 2299,
-    "timeDay": 2898,
-    "timeWeek": 2905,
-    "timeMonth": 5081,
-    "timeYear": 2299,
+    "time": 2300,
+    "timeDay": 3540,
+    "timeWeek": 3000,
+    "timeMonth": 5083,
+    "timeYear": 2300,
     "dailyMinutesDown": {
       "2024-08-22": 19,
       "2024-08-20": 61,
@@ -169,7 +169,7 @@
       "2024-08-08": 882,
       "2024-08-07": 499,
       "2024-08-06": 437,
-      "2024-08-05": 42
+      "2024-08-05": 27
     }
   }
 ]
