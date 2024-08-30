@@ -64,18 +64,19 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.61%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "94.92%",
-    "uptimeMonth": "95.47%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "95.49%",
     "uptimeYear": "99.61%",
-    "time": 3229,
-    "timeDay": 3771,
-    "timeWeek": 3466,
-    "timeMonth": 4445,
-    "timeYear": 3229,
+    "time": 3233,
+    "timeDay": 4181,
+    "timeWeek": 3526,
+    "timeMonth": 4451,
+    "timeYear": 3233,
     "dailyMinutesDown": {
+      "2024-08-30": 1,
       "2024-08-29": 53,
       "2024-08-28": 89,
       "2024-08-27": 55,
@@ -92,7 +93,7 @@
       "2024-08-16": 227,
       "2024-08-15": 170,
       "2024-08-14": 216,
-      "2024-08-13": 61
+      "2024-08-13": 52
     }
   },
   {
@@ -121,18 +122,19 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.56%",
-    "uptimeDay": "84.03%",
-    "uptimeWeek": "85.77%",
-    "uptimeMonth": "94.87%",
+    "uptimeDay": "83.94%",
+    "uptimeWeek": "85.75%",
+    "uptimeMonth": "94.89%",
     "uptimeYear": "99.56%",
     "time": 4071,
-    "timeDay": 4651,
-    "timeWeek": 5395,
-    "timeMonth": 5269,
+    "timeDay": 4529,
+    "timeWeek": 5378,
+    "timeMonth": 5266,
     "timeYear": 4071,
     "dailyMinutesDown": {
+      "2024-08-30": 1,
       "2024-08-29": 230,
       "2024-08-28": 198,
       "2024-08-27": 409,
@@ -143,7 +145,7 @@
       "2024-08-22": 272,
       "2024-08-21": 210,
       "2024-08-20": 309,
-      "2024-08-19": 22
+      "2024-08-19": 11
     }
   },
   {
@@ -151,11 +153,11 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "92.77%",
     "uptimeYear": "99.37%",
     "time": 2295,
     "timeDay": 1903,
@@ -163,6 +165,7 @@
     "timeMonth": 5091,
     "timeYear": 2295,
     "dailyMinutesDown": {
+      "2024-08-30": 0,
       "2024-08-29": 13,
       "2024-08-24": 8,
       "2024-08-23": 15,
@@ -179,7 +182,7 @@
       "2024-08-09": 802,
       "2024-08-08": 882,
       "2024-08-07": 499,
-      "2024-08-06": 332
+      "2024-08-06": 295
     }
   }
 ]
