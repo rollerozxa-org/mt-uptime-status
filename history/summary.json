@@ -64,16 +64,16 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.60%",
-    "uptimeDay": "75.73%",
-    "uptimeWeek": "89.71%",
-    "uptimeMonth": "95.35%",
+    "uptimeDay": "75.71%",
+    "uptimeWeek": "89.70%",
+    "uptimeMonth": "95.37%",
     "uptimeYear": "99.60%",
     "time": 3326,
-    "timeDay": 4902,
-    "timeWeek": 4222,
-    "timeMonth": 4454,
+    "timeDay": 4854,
+    "timeWeek": 4213,
+    "timeMonth": 4459,
     "timeYear": 3326,
     "dailyMinutesDown": {
       "2024-09-02": 340,
@@ -91,7 +91,7 @@
       "2024-08-21": 70,
       "2024-08-20": 128,
       "2024-08-19": 201,
-      "2024-08-18": 97
+      "2024-08-18": 88
     }
   },
   {
@@ -123,13 +123,13 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "80.25%",
-    "uptimeWeek": "78.98%",
+    "uptimeWeek": "79.01%",
     "uptimeMonth": "94.12%",
     "uptimeYear": "99.50%",
     "time": 4150,
     "timeDay": 5932,
-    "timeWeek": 5681,
-    "timeMonth": 5429,
+    "timeWeek": 5618,
+    "timeMonth": 5410,
     "timeYear": 4150,
     "dailyMinutesDown": {
       "2024-09-02": 273,
@@ -149,18 +149,19 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "92.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "93.01%",
     "uptimeYear": "99.40%",
     "time": 2306,
-    "timeDay": 689,
-    "timeWeek": 3051,
-    "timeMonth": 5059,
+    "timeDay": 1864,
+    "timeWeek": 3050,
+    "timeMonth": 5052,
     "timeYear": 2306,
     "dailyMinutesDown": {
+      "2024-09-02": 0,
       "2024-09-01": 10,
       "2024-08-31": 83,
       "2024-08-30": 70,
@@ -180,7 +181,7 @@
       "2024-08-09": 802,
       "2024-08-08": 882,
       "2024-08-07": 499,
-      "2024-08-06": 42
+      "2024-08-06": 26
     }
   }
 ]
