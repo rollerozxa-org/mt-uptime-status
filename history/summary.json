@@ -64,19 +64,19 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "74.54%",
-    "uptimeWeek": "87.26%",
-    "uptimeMonth": "95.51%",
+    "uptimeDay": "74.75%",
+    "uptimeWeek": "87.34%",
+    "uptimeMonth": "95.53%",
     "uptimeYear": "99.62%",
     "time": 3349,
-    "timeDay": 4962,
-    "timeWeek": 4350,
-    "timeMonth": 4473,
+    "timeDay": 5081,
+    "timeWeek": 4386,
+    "timeMonth": 4480,
     "timeYear": 3349,
     "dailyMinutesDown": {
-      "2024-09-03": 246,
+      "2024-09-03": 248,
       "2024-09-02": 386,
       "2024-09-01": 195,
       "2024-08-31": 124,
@@ -90,7 +90,7 @@
       "2024-08-23": 49,
       "2024-08-22": 186,
       "2024-08-21": 70,
-      "2024-08-20": 64
+      "2024-08-20": 55
     }
   },
   {
@@ -119,15 +119,15 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "87.55%",
-    "uptimeWeek": "81.58%",
-    "uptimeMonth": "94.12%",
+    "uptimeDay": "89.03%",
+    "uptimeWeek": "81.89%",
+    "uptimeMonth": "94.18%",
     "uptimeYear": "99.50%",
     "time": 4151,
-    "timeDay": 4331,
-    "timeWeek": 5554,
+    "timeDay": 4529,
+    "timeWeek": 5588,
     "timeMonth": 5414,
     "timeYear": 4151,
     "dailyMinutesDown": {
@@ -140,7 +140,7 @@
       "2024-08-28": 198,
       "2024-08-27": 409,
       "2024-08-26": 153,
-      "2024-08-25": 248
+      "2024-08-25": 221
     }
   },
   {
