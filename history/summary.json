@@ -64,11 +64,11 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "58.39%",
+    "uptimeDay": "58.38%",
     "uptimeWeek": "84.11%",
-    "uptimeMonth": "94.79%",
+    "uptimeMonth": "94.84%",
     "uptimeYear": "99.56%",
     "time": 3348,
     "timeDay": 4581,
@@ -90,7 +90,7 @@
       "2024-08-23": 49,
       "2024-08-22": 186,
       "2024-08-21": 70,
-      "2024-08-20": 55
+      "2024-08-20": 33
     }
   },
   {
@@ -128,7 +128,7 @@
     "time": 4171,
     "timeDay": 7398,
     "timeWeek": 5980,
-    "timeMonth": 5475,
+    "timeMonth": 5470,
     "timeYear": 4171,
     "dailyMinutesDown": {
       "2024-09-03": 345,
