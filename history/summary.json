@@ -24,10 +24,10 @@
     "url": "https://content.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/content.minetest.net.ico",
     "slug": "content-minetest-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
     "time": 1226,
@@ -36,6 +36,7 @@
     "timeMonth": 1241,
     "timeYear": 1224,
     "dailyMinutesDown": {
+      "2024-09-23": 1,
       "2024-09-20": 9,
       "2024-09-09": 19,
       "2024-08-28": 18,
@@ -65,11 +66,11 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "97.62%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "97.58%",
     "uptimeWeek": "97.69%",
-    "uptimeMonth": "95.10%",
+    "uptimeMonth": "95.12%",
     "uptimeYear": "99.59%",
     "time": 3334,
     "timeDay": 1550,
@@ -77,7 +78,7 @@
     "timeMonth": 3805,
     "timeYear": 3358,
     "dailyMinutesDown": {
-      "2024-09-23": 34,
+      "2024-09-23": 35,
       "2024-09-22": 47,
       "2024-09-21": 76,
       "2024-09-20": 53,
@@ -94,7 +95,7 @@
       "2024-08-30": 179,
       "2024-08-29": 53,
       "2024-08-28": 89,
-      "2024-08-27": 21
+      "2024-08-27": 10
     }
   },
   {
@@ -123,17 +124,17 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "79.74%",
-    "uptimeWeek": "94.81%",
-    "uptimeMonth": "94.30%",
+    "status": "degraded",
+    "uptime": "99.55%",
+    "uptimeDay": "79.72%",
+    "uptimeWeek": "94.80%",
+    "uptimeMonth": "94.41%",
     "uptimeYear": "99.53%",
-    "time": 4207,
-    "timeDay": 4146,
-    "timeWeek": 4154,
-    "timeMonth": 5137,
-    "timeYear": 4261,
+    "time": 4213,
+    "timeDay": 4659,
+    "timeWeek": 4358,
+    "timeMonth": 5170,
+    "timeYear": 4267,
     "dailyMinutesDown": {
       "2024-09-23": 281,
       "2024-09-22": 86,
@@ -153,7 +154,7 @@
       "2024-09-03": 345,
       "2024-09-02": 273,
       "2024-09-01": 396,
-      "2024-08-31": 205
+      "2024-08-31": 159
     }
   },
   {
