@@ -66,18 +66,19 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.10%",
-    "uptimeMonth": "95.15%",
+    "uptimeMonth": "95.17%",
     "uptimeYear": "99.60%",
-    "time": 3322,
-    "timeDay": 870,
-    "timeWeek": 2635,
-    "timeMonth": 3763,
-    "timeYear": 3354,
+    "time": 3326,
+    "timeDay": 4485,
+    "timeWeek": 2768,
+    "timeMonth": 3782,
+    "timeYear": 3358,
     "dailyMinutesDown": {
+      "2024-09-25": 0,
       "2024-09-24": 43,
       "2024-09-23": 51,
       "2024-09-22": 47,
@@ -95,7 +96,7 @@
       "2024-08-31": 124,
       "2024-08-30": 179,
       "2024-08-29": 53,
-      "2024-08-28": 28
+      "2024-08-28": 19
     }
   },
   {
@@ -124,17 +125,17 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "64.90%",
+    "status": "degraded",
+    "uptime": "99.58%",
+    "uptimeDay": "68.55%",
     "uptimeWeek": "84.79%",
-    "uptimeMonth": "94.23%",
-    "uptimeYear": "99.52%",
-    "time": 4212,
-    "timeDay": 4698,
-    "timeWeek": 4643,
-    "timeMonth": 5097,
-    "timeYear": 4302,
+    "uptimeMonth": "94.76%",
+    "uptimeYear": "99.56%",
+    "time": 4213,
+    "timeDay": 4718,
+    "timeWeek": 4638,
+    "timeMonth": 5075,
+    "timeYear": 4305,
     "dailyMinutesDown": {
       "2024-09-25": 428,
       "2024-09-24": 513,
@@ -153,7 +154,7 @@
       "2024-09-06": 42,
       "2024-09-05": 44,
       "2024-09-04": 149,
-      "2024-09-03": 243
+      "2024-09-03": 9
     }
   },
   {
@@ -171,7 +172,7 @@
     "timeDay": 710,
     "timeWeek": 2145,
     "timeMonth": 2379,
-    "timeYear": 2381,
+    "timeYear": 2382,
     "dailyMinutesDown": {
       "2024-09-24": 60,
       "2024-09-22": 121,
