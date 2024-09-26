@@ -66,18 +66,19 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.61%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "95.15%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "95.19%",
     "uptimeYear": "99.60%",
-    "time": 3322,
-    "timeDay": 3232,
-    "timeWeek": 2676,
-    "timeMonth": 3769,
-    "timeYear": 3356,
+    "time": 3325,
+    "timeDay": 4177,
+    "timeWeek": 2775,
+    "timeMonth": 3783,
+    "timeYear": 3359,
     "dailyMinutesDown": {
+      "2024-09-26": 1,
       "2024-09-25": 9,
       "2024-09-24": 43,
       "2024-09-23": 51,
@@ -95,8 +96,7 @@
       "2024-09-01": 195,
       "2024-08-31": 124,
       "2024-08-30": 179,
-      "2024-08-29": 53,
-      "2024-08-28": 19
+      "2024-08-29": 53
     }
   },
   {
@@ -125,17 +125,17 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.57%",
-    "uptimeDay": "70.44%",
+    "uptimeDay": "72.99%",
     "uptimeWeek": "83.93%",
-    "uptimeMonth": "94.63%",
-    "uptimeYear": "99.55%",
-    "time": 4212,
-    "timeDay": 3947,
-    "timeWeek": 4537,
-    "timeMonth": 5062,
-    "timeYear": 4304,
+    "uptimeMonth": "94.67%",
+    "uptimeYear": "99.56%",
+    "time": 4216,
+    "timeDay": 4311,
+    "timeWeek": 4577,
+    "timeMonth": 5075,
+    "timeYear": 4308,
     "dailyMinutesDown": {
       "2024-09-26": 78,
       "2024-09-25": 437,
@@ -154,7 +154,7 @@
       "2024-09-07": 14,
       "2024-09-06": 42,
       "2024-09-05": 44,
-      "2024-09-04": 128
+      "2024-09-04": 110
     }
   },
   {
@@ -172,7 +172,7 @@
     "timeDay": 689,
     "timeWeek": 2097,
     "timeMonth": 2379,
-    "timeYear": 2383,
+    "timeYear": 2384,
     "dailyMinutesDown": {
       "2024-09-24": 60,
       "2024-09-22": 121,
