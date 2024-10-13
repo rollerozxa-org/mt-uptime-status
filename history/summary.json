@@ -70,12 +70,12 @@
     "slug": "forum-minetest-net",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.35%",
+    "uptimeDay": "99.36%",
     "uptimeWeek": "94.54%",
     "uptimeMonth": "96.23%",
     "uptimeYear": "99.45%",
     "time": 3259,
-    "timeDay": 1201,
+    "timeDay": 1365,
     "timeWeek": 1443,
     "timeMonth": 2314,
     "timeYear": 3310,
@@ -137,17 +137,17 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "64.34%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "64.33%",
     "uptimeWeek": "79.01%",
-    "uptimeMonth": "94.84%",
+    "uptimeMonth": "94.86%",
     "uptimeYear": "99.57%",
     "time": 4481,
-    "timeDay": 6076,
-    "timeWeek": 4404,
-    "timeMonth": 5143,
-    "timeYear": 4507,
+    "timeDay": 5924,
+    "timeWeek": 4385,
+    "timeMonth": 5136,
+    "timeYear": 4506,
     "dailyMinutesDown": {
       "2024-10-13": 327,
       "2024-10-12": 415,
@@ -157,7 +157,7 @@
       "2024-10-08": 333,
       "2024-10-07": 121,
       "2024-10-06": 101,
-      "2024-10-05": 75
+      "2024-10-05": 65
     }
   },
   {
@@ -165,16 +165,16 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.59%",
-    "uptimeDay": "97.01%",
+    "uptimeDay": "96.98%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.55%",
-    "time": 2524,
-    "timeDay": 4473,
-    "timeWeek": 2592,
-    "timeMonth": 2293,
+    "time": 2525,
+    "timeDay": 4240,
+    "timeWeek": 2593,
+    "timeMonth": 2297,
     "timeYear": 2574,
     "dailyMinutesDown": {
       "2024-10-13": 43,
@@ -216,7 +216,7 @@
       "2024-08-11": 130,
       "2024-08-10": 184,
       "2024-08-09": 802,
-      "2024-08-08": 22
+      "2024-08-08": 15
     }
   }
 ]
