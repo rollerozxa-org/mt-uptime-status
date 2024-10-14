@@ -137,16 +137,16 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "78.98%",
+    "status": "degraded",
+    "uptime": "99.60%",
+    "uptimeDay": "81.58%",
     "uptimeWeek": "77.39%",
-    "uptimeMonth": "94.67%",
+    "uptimeMonth": "94.71%",
     "uptimeYear": "99.56%",
-    "time": 4485,
-    "timeDay": 3590,
-    "timeWeek": 4396,
-    "timeMonth": 5105,
+    "time": 4486,
+    "timeDay": 3449,
+    "timeWeek": 4389,
+    "timeMonth": 5102,
     "timeYear": 4502,
     "dailyMinutesDown": {
       "2024-10-14": 187,
@@ -156,7 +156,7 @@
       "2024-10-10": 176,
       "2024-10-09": 242,
       "2024-10-08": 333,
-      "2024-10-07": 112
+      "2024-10-07": 91
     }
   },
   {
@@ -174,7 +174,7 @@
     "timeDay": 2105,
     "timeWeek": 2527,
     "timeMonth": 2282,
-    "timeYear": 2581,
+    "timeYear": 2582,
     "dailyMinutesDown": {
       "2024-10-14": 159,
       "2024-10-13": 71,
