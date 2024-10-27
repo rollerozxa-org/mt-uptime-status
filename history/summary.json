@@ -67,18 +67,19 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.50%",
-    "uptimeDay": "95.79%",
+    "uptimeDay": "95.77%",
     "uptimeWeek": "96.44%",
     "uptimeMonth": "95.74%",
     "uptimeYear": "99.43%",
     "time": 3214,
-    "timeDay": 2702,
-    "timeWeek": 2286,
-    "timeMonth": 2058,
+    "timeDay": 2752,
+    "timeWeek": 2307,
+    "timeMonth": 2067,
     "timeYear": 3262,
     "dailyMinutesDown": {
+      "2024-10-27": 0,
       "2024-10-26": 87,
       "2024-10-25": 39,
       "2024-10-24": 23,
@@ -117,7 +118,7 @@
       "2024-09-09": 19,
       "2024-09-06": 36,
       "2024-09-05": 64,
-      "2024-09-03": 518
+      "2024-09-03": 509
     }
   },
   {
@@ -150,14 +151,14 @@
     "slug": "wiki-minetest-net",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "58.78%",
+    "uptimeDay": "62.46%",
     "uptimeWeek": "69.72%",
     "uptimeMonth": "93.03%",
     "uptimeYear": "99.42%",
     "time": 4630,
-    "timeDay": 5544,
-    "timeWeek": 5625,
-    "timeMonth": 5356,
+    "timeDay": 5567,
+    "timeWeek": 5654,
+    "timeMonth": 5358,
     "timeYear": 4721,
     "dailyMinutesDown": {
       "2024-10-27": 116,
@@ -174,17 +175,17 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.68%",
-    "uptimeDay": "94.28%",
+    "uptimeDay": "94.25%",
     "uptimeWeek": "97.93%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "99.64%",
     "time": 2693,
-    "timeDay": 2192,
-    "timeWeek": 2596,
-    "timeMonth": 3306,
-    "timeYear": 2769,
+    "timeDay": 2261,
+    "timeWeek": 2606,
+    "timeMonth": 3303,
+    "timeYear": 2772,
     "dailyMinutesDown": {
       "2024-10-27": 25,
       "2024-10-26": 58,
@@ -235,7 +236,7 @@
       "2024-08-15": 16,
       "2024-08-14": 8,
       "2024-08-13": 62,
-      "2024-08-11": 67
+      "2024-08-11": 35
     }
   }
 ]
