@@ -68,19 +68,19 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.46%",
-    "uptimeDay": "64.81%",
-    "uptimeWeek": "88.61%",
-    "uptimeMonth": "94.84%",
+    "uptimeDay": "69.05%",
+    "uptimeWeek": "88.69%",
+    "uptimeMonth": "94.86%",
     "uptimeYear": "99.38%",
-    "time": 3252,
-    "timeDay": 3408,
-    "timeWeek": 3199,
-    "timeMonth": 2469,
-    "timeYear": 3263,
+    "time": 3244,
+    "timeDay": 4377,
+    "timeWeek": 3311,
+    "timeMonth": 2515,
+    "timeYear": 3270,
     "dailyMinutesDown": {
-      "2024-11-02": 213,
+      "2024-11-02": 214,
       "2024-11-01": 545,
       "2024-10-31": 98,
       "2024-10-30": 152,
@@ -116,7 +116,7 @@
       "2024-09-24": 43,
       "2024-09-23": 51,
       "2024-09-22": 47,
-      "2024-09-21": 76
+      "2024-09-21": 61
     }
   },
   {
@@ -147,17 +147,17 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.26%",
-    "uptimeDay": "50.39%",
-    "uptimeWeek": "56.12%",
-    "uptimeMonth": "89.90%",
+    "uptimeDay": "52.57%",
+    "uptimeWeek": "56.30%",
+    "uptimeMonth": "89.94%",
     "uptimeYear": "99.16%",
-    "time": 4843,
-    "timeDay": 6216,
-    "timeWeek": 6482,
-    "timeMonth": 5484,
-    "timeYear": 4908,
+    "time": 4848,
+    "timeDay": 6534,
+    "timeWeek": 6592,
+    "timeMonth": 5500,
+    "timeYear": 4915,
     "dailyMinutesDown": {
       "2024-11-02": 327,
       "2024-11-01": 691,
@@ -165,7 +165,7 @@
       "2024-10-30": 614,
       "2024-10-29": 600,
       "2024-10-28": 643,
-      "2024-10-27": 540
+      "2024-10-27": 522
     }
   },
   {
@@ -183,7 +183,7 @@
     "timeDay": 1848,
     "timeWeek": 3785,
     "timeMonth": 3587,
-    "timeYear": 3020,
+    "timeYear": 3028,
     "dailyMinutesDown": {
       "2024-11-02": 23,
       "2024-11-01": 26,
