@@ -68,19 +68,19 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "93.56%",
-    "uptimeWeek": "88.45%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "88.44%",
     "uptimeMonth": "94.65%",
     "uptimeYear": "99.38%",
-    "time": 3251,
-    "timeDay": 3367,
+    "time": 3253,
+    "timeDay": 3088,
     "timeWeek": 3329,
     "timeMonth": 2531,
-    "timeYear": 3242,
+    "timeYear": 3243,
     "dailyMinutesDown": {
-      "2024-11-03": 58,
+      "2024-11-03": 59,
       "2024-11-02": 248,
       "2024-11-01": 545,
       "2024-10-31": 98,
@@ -117,7 +117,7 @@
       "2024-09-24": 43,
       "2024-09-23": 51,
       "2024-09-22": 47,
-      "2024-09-21": 18
+      "2024-09-21": 9
     }
   },
   {
@@ -148,17 +148,17 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.31%",
-    "uptimeDay": "71.57%",
-    "uptimeWeek": "58.77%",
-    "uptimeMonth": "90.51%",
+    "uptimeDay": "72.95%",
+    "uptimeWeek": "58.86%",
+    "uptimeMonth": "90.53%",
     "uptimeYear": "99.21%",
-    "time": 4867,
-    "timeDay": 4693,
-    "timeWeek": 6391,
-    "timeMonth": 5459,
-    "timeYear": 4917,
+    "time": 4873,
+    "timeDay": 4937,
+    "timeWeek": 6447,
+    "timeMonth": 5477,
+    "timeYear": 4925,
     "dailyMinutesDown": {
       "2024-11-03": 232,
       "2024-11-02": 504,
@@ -166,7 +166,7 @@
       "2024-10-31": 1004,
       "2024-10-30": 614,
       "2024-10-29": 600,
-      "2024-10-28": 506
+      "2024-10-28": 497
     }
   },
   {
@@ -184,7 +184,7 @@
     "timeDay": 1373,
     "timeWeek": 4332,
     "timeMonth": 3588,
-    "timeYear": 3078,
+    "timeYear": 3083,
     "dailyMinutesDown": {
       "2024-11-02": 23,
       "2024-11-01": 26,
