@@ -1,7 +1,7 @@
 url: https://forum.minetest.net
-status: up
+status: degraded
 code: 200
-responseTime: 1143
-lastUpdated: 2024-11-16T07:40:11.726Z
+responseTime: 3057
+lastUpdated: 2024-11-16T10:45:38.542Z
 startTime: 2023-09-13T11:03:18.696Z
 generator: Upptime <https://github.com/upptime/upptime>
