@@ -69,17 +69,17 @@
     "url": "https://forum.minetest.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.minetest.net.ico",
     "slug": "forum-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.56%",
-    "uptimeDay": "94.30%",
+    "uptimeDay": "94.28%",
     "uptimeWeek": "87.31%",
-    "uptimeMonth": "93.63%",
+    "uptimeMonth": "93.69%",
     "uptimeYear": "99.47%",
-    "time": 3561,
-    "timeDay": 2813,
-    "timeWeek": 4327,
-    "timeMonth": 4690,
-    "timeYear": 3651,
+    "time": 3562,
+    "timeDay": 2809,
+    "timeWeek": 4313,
+    "timeMonth": 4685,
+    "timeYear": 3650,
     "dailyMinutesDown": {
       "2024-11-22": 57,
       "2024-11-21": 26,
@@ -93,7 +93,7 @@
       "2024-11-13": 12,
       "2024-11-12": 152,
       "2024-11-11": 689,
-      "2024-11-10": 293
+      "2024-11-10": 267
     }
   },
   {
@@ -126,14 +126,14 @@
     "slug": "wiki-minetest-net",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "12.52%",
-    "uptimeWeek": "24.37%",
+    "uptimeDay": "13.37%",
+    "uptimeWeek": "24.48%",
     "uptimeMonth": "80.77%",
     "uptimeYear": "98.40%",
     "time": 5087,
     "timeDay": 1776,
-    "timeWeek": 4446,
-    "timeMonth": 6185,
+    "timeWeek": 4463,
+    "timeMonth": 6178,
     "timeYear": 5164,
     "dailyMinutesDown": {
       "2024-11-22": 762,
@@ -152,16 +152,16 @@
     "url": "https://dev.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.17%",
-    "uptimeDay": "32.78%",
-    "uptimeWeek": "57.45%",
+    "uptimeDay": "33.59%",
+    "uptimeWeek": "57.44%",
     "uptimeMonth": "89.20%",
     "uptimeYear": "99.01%",
-    "time": 2889,
-    "timeDay": 2149,
-    "timeWeek": 2422,
-    "timeMonth": 2608,
+    "time": 2891,
+    "timeDay": 2172,
+    "timeWeek": 2427,
+    "timeMonth": 2609,
     "timeYear": 3032,
     "dailyMinutesDown": {
       "2024-11-22": 668,
@@ -191,7 +191,7 @@
       "2024-10-16": 141,
       "2024-10-15": 9,
       "2024-10-14": 159,
-      "2024-10-13": 60
+      "2024-10-13": 37
     }
   }
 ]
