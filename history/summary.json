@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 799,
-    "timeWeek": 839,
-    "timeMonth": 778,
+    "timeWeek": 854,
+    "timeMonth": 782,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2024-06-19": 19
@@ -32,8 +32,8 @@
     "uptimeYear": "99.92%",
     "time": 1289,
     "timeDay": 1469,
-    "timeWeek": 1355,
-    "timeMonth": 1861,
+    "timeWeek": 1341,
+    "timeMonth": 1875,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2024-12-05": 9,
@@ -72,8 +72,8 @@
     "uptimeYear": "99.67%",
     "time": 3432,
     "timeDay": 2663,
-    "timeWeek": 2326,
-    "timeMonth": 2500,
+    "timeWeek": 2346,
+    "timeMonth": 2504,
     "timeYear": 3487,
     "dailyMinutesDown": {
       "2024-12-24": 67,
@@ -113,8 +113,8 @@
     "uptimeYear": "99.98%",
     "time": 464,
     "timeDay": 513,
-    "timeWeek": 540,
-    "timeMonth": 475,
+    "timeWeek": 557,
+    "timeMonth": 476,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2024-10-24": 18,
@@ -128,17 +128,17 @@
     "url": "https://wiki.minetest.net/Main_Page",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "wiki-minetest-net",
-    "status": "up",
-    "uptime": "97.24%",
-    "uptimeDay": "15.46%",
-    "uptimeWeek": "10.04%",
-    "uptimeMonth": "57.56%",
-    "uptimeYear": "96.46%",
-    "time": 4779,
-    "timeDay": 2195,
-    "timeWeek": 2099,
-    "timeMonth": 2460,
-    "timeYear": 4853,
+    "status": "degraded",
+    "uptime": "97.27%",
+    "uptimeDay": "15.44%",
+    "uptimeWeek": "10.09%",
+    "uptimeMonth": "58.02%",
+    "uptimeYear": "96.50%",
+    "time": 4778,
+    "timeDay": 2197,
+    "timeWeek": 2100,
+    "timeMonth": 2461,
+    "timeYear": 4852,
     "dailyMinutesDown": {
       "2024-12-24": 1199,
       "2024-12-23": 1249,
@@ -154,7 +154,7 @@
       "2024-12-13": 1296,
       "2024-12-12": 1323,
       "2024-12-11": 1309,
-      "2024-12-10": 364
+      "2024-12-10": 163
     }
   },
   {
@@ -170,8 +170,8 @@
     "uptimeYear": "98.06%",
     "time": 2563,
     "timeDay": 543,
-    "timeWeek": 689,
-    "timeMonth": 1963,
+    "timeWeek": 714,
+    "timeMonth": 1965,
     "timeYear": 2636,
     "dailyMinutesDown": {
       "2024-12-14": 1007,
