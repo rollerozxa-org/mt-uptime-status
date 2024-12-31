@@ -13,7 +13,7 @@
     "time": 207,
     "timeDay": 783,
     "timeWeek": 812,
-    "timeMonth": 813,
+    "timeMonth": 808,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2024-06-19": 19
@@ -33,7 +33,7 @@
     "time": 1289,
     "timeDay": 1374,
     "timeWeek": 1357,
-    "timeMonth": 1814,
+    "timeMonth": 1804,
     "timeYear": 1282,
     "dailyMinutesDown": {
       "2024-12-05": 9,
@@ -73,7 +73,7 @@
     "time": 3394,
     "timeDay": 1745,
     "timeWeek": 2477,
-    "timeMonth": 2546,
+    "timeMonth": 2558,
     "timeYear": 3465,
     "dailyMinutesDown": {
       "2024-12-30": 48,
@@ -115,7 +115,7 @@
     "time": 464,
     "timeDay": 312,
     "timeWeek": 450,
-    "timeMonth": 485,
+    "timeMonth": 479,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2024-10-24": 18,
@@ -131,14 +131,14 @@
     "slug": "wiki-minetest-net",
     "status": "up",
     "uptime": "97.57%",
-    "uptimeDay": "7.79%",
-    "uptimeWeek": "10.28%",
+    "uptimeDay": "14.79%",
+    "uptimeWeek": "11.28%",
     "uptimeMonth": "62.16%",
     "uptimeYear": "96.85%",
     "time": 4720,
     "timeDay": 2070,
     "timeWeek": 2010,
-    "timeMonth": 2258,
+    "timeMonth": 2309,
     "timeYear": 4800,
     "dailyMinutesDown": {
       "2024-12-30": 1328,
@@ -170,7 +170,7 @@
     "time": 2559,
     "timeDay": 582,
     "timeWeek": 690,
-    "timeMonth": 1849,
+    "timeMonth": 1842,
     "timeYear": 2634,
     "dailyMinutesDown": {
       "2024-12-14": 1007,
