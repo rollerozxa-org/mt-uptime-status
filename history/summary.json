@@ -160,7 +160,7 @@
     "timeDay": 887,
     "timeWeek": 632,
     "timeMonth": 671,
-    "timeYear": 4566,
+    "timeYear": 4568,
     "dailyMinutesDown": {
       "2025-02-01": 1054,
       "2025-01-31": 1391,
@@ -185,7 +185,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.minetest.net.ico",
     "slug": "dev-minetest-net",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
