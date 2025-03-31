@@ -13,7 +13,7 @@
     "time": 316,
     "timeDay": 842,
     "timeWeek": 597,
-    "timeMonth": 700,
+    "timeMonth": 703,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2024-06-19": 19
@@ -33,7 +33,7 @@
     "time": 1360,
     "timeDay": 1776,
     "timeWeek": 1509,
-    "timeMonth": 2136,
+    "timeMonth": 2102,
     "timeYear": 1391,
     "dailyMinutesDown": {
       "2025-03-10": 17,
@@ -66,14 +66,14 @@
     "slug": "forum-minetest-net",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "97.20%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "99.72%",
     "time": 3196,
-    "timeDay": 2128,
-    "timeWeek": 2214,
-    "timeMonth": 2471,
+    "timeDay": 2312,
+    "timeWeek": 2237,
+    "timeMonth": 2461,
     "timeYear": 3296,
     "dailyMinutesDown": {
       "2025-03-30": 47,
@@ -149,8 +149,8 @@
     "time": 4557,
     "timeDay": 753,
     "timeWeek": 579,
-    "timeMonth": 648,
-    "timeYear": 4579,
+    "timeMonth": 655,
+    "timeYear": 4580,
     "dailyMinutesDown": {
       "2025-02-01": 1054,
       "2025-01-31": 1391,
@@ -183,7 +183,7 @@
     "time": 2474,
     "timeDay": 456,
     "timeWeek": 400,
-    "timeMonth": 419,
+    "timeMonth": 424,
     "timeYear": 2615,
     "dailyMinutesDown": {
       "2025-01-31": 21,
